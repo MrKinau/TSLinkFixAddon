@@ -1,0 +1,10 @@
+{
+  "uuid": "%uuid%",
+  "name": "TSLinkFix",
+  "mainClass": "de.lpmitkev.kinau.TSLinkFix",
+  "description": "With this addon it is possible to click on links from the teamspeak chat",
+  "version": 1,
+  "author": "MrKinau",
+  "category": 2,
+  "icon": "http://dl1.cbsistatic.com/i/r/2016/10/26/8bb83baf-0e02-4ed7-bd0c-b531fc34478b/thumbnail/64x64/49483cb6563a094655393d4f69a1703e/imgingest-5469789629740075439.png"
+}
